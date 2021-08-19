@@ -1,2 +1,16 @@
 # Fairy-Forest-Run
-# Fairy-Forest-Run This is a small project where I will showcase some of my knowledge and experience in using C# and Unity. Currently, in development. Will continue to update as improvements and features are added. To run the game in browser, simply click on the link in the About section of this page. You can also go to another branch if you want to download an executable copy. And if you would like to see more on how the game works, you can go ahead aand download the Unity Project Files. <pre> Controls: Move: WASD Aim:  Mouse Fire: Left Mouse Button Pause: Space Coming Soon: Energy Meter Functionality Energy recharges as enemies are defeated Use Energy to use abilities Use ability one: Q Use ability two: E More Enemies Add Bosses Sounds and more visual effects Special thank you to Eder Munizz for the use of their beautiful Free Pixel Art Forest, which you can find at https://edermunizz.itch.io/free-pixel-art-forest. </pre>
+
+This is a small project where I will showcase some of my knowlede and experience in using C# and Unity. Currently in development. Will continue to update as improvements and features are added. To run the game in browser, simply click on the link in the about section of this page.
+<pre>
+<strong>Controls:</strong>
+  Move: WASD
+  Aim:  Mouse
+  Fire: Left Mouse Button 
+  Pause: Space
+
+<strong>Coming Soon:</strong>
+  More Enemies
+  Add Bosses
+  Sounds and more visual effects
+</pre>
+Special thank you to Eder Munizz for the use of their beautiful Free Pixel Art Forest, which you can find at</br> https://edermunizz.itch.io/free-pixel-art-forest.
