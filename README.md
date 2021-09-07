@@ -1,6 +1,6 @@
 # Fairy-Forest-Run
 
-This is a small project where I will showcase some of my knowlede and experience in using C# and Unity. Currently in development. Will continue to update as improvements and features are added. To run the game in browser, simply click on the link in the about section of this page.
+This is a small project where I will showcase some of my knowledge and experience in using C# and Unity. Currently in development. Will continue to update as improvements and features are added. To run the game in browser, simply click on the link in the about section of this page. (Mobile support not implemented.)
 <pre>
 <strong>Controls:</strong>
   Move: WASD
